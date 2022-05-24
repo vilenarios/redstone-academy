@@ -1,1 +1,12 @@
-{}
+{
+    "ticker": "ARNS-1",
+    "name": "Arweave Name System",
+    "owner": "iKryOeZQMONi2965nKz528htMMN_sBcjlhc-VncoRjA",
+    "record": {
+        "subDomain": "@",
+        "transactionId": "changeMe"
+    },
+    "balances": {
+      "iKryOeZQMONi2965nKz528htMMN_sBcjlhc-VncoRjA": 1
+    }
+  }
